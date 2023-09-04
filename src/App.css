@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.wikiFlex {
+  display: flex;
+  flex-wrap: nowrap;
+ 
+}
+
+.countryDetailsDiv {
+  margin-left: 50px;
+
+}
+
+.listaPaises {
+  list-style: none;
+}
+
+.flag {
+  width: 120px;
+  margin-bottom: 20px;
+}
